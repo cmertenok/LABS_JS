@@ -1,11 +1,5 @@
 'use strict'
 
-/*let counter = 0;
-const array = [ 10, -59, 3, 0 ,-7, 8, 9, -45, 14];
-const sum = (acc, val) => (counter++, console.log(counter, acc, val), acc + val);
-const result =  array.reduce(sum);
-console.log({ result, counter});*/
-
 const a = 10;
 
 function inc1(a) {

@@ -23,7 +23,7 @@ for(const value of array) {
     else if(typeof value === 'function'){
         obj.function++;
     }
-    else obj.obgect++;
+    else obj.object++;
 
 }
 console.log(obj);
